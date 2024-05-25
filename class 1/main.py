@@ -43,6 +43,11 @@ multi-line comment
 # print("2 X 1 =1")
 # print("2 X 1=",*1)
 
+
+print("2 x 1 = ", 2 * 1)
+print("2 x 2 = ", 2 * 2)
+print("2 x 3 = ", 2 * 3)
+
 X =1
 y="Hussain"
 z=" I live in pakistan"
